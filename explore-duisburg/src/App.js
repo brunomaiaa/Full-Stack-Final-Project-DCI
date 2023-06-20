@@ -1,7 +1,7 @@
 
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
-import Navbar from './Components/Navbar';
+
 import Home from './Routes/Home';
 import PlacesToVisit from './Routes/PlacesToVisit';
 import HolidayRentals from './Routes/HolidayRentals';
@@ -22,7 +22,7 @@ function App() {
 
       </Routes>
       
-      <Navbar />
+      
       
       
 

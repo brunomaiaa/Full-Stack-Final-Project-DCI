@@ -3,7 +3,7 @@ export const MenuItems = [
         title: 'Home',
         url: '/',
         cName: 'nav-links',
-        icon: "fa-solid fa-house"
+        icon: "fa-solid fa-house-user"
 
 },
 {
@@ -17,8 +17,9 @@ export const MenuItems = [
     title: 'Holiday Rentals',
     url: '/holidayrentals',
     cName: 'nav-links',
-    icon: "fa-solid fa-house-heart"
+    // icon: "fa-solid fa-house-heart"
     // icon: "fa-duotone fa-house-building"
+    icon: "fa-solid fa-house"
 
 },
 {
