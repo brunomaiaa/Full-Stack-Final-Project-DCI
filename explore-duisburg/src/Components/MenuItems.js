@@ -14,6 +14,14 @@ export const MenuItems = [
 
 },
 {
+    title: 'Holiday Rentals',
+    url: '/holidayrentals',
+    cName: 'nav-links',
+    icon: "fa-solid fa-house-heart"
+    // icon: "fa-duotone fa-house-building"
+
+},
+{
     title: 'About',
     url: '/about',
     cName: 'nav-links',
