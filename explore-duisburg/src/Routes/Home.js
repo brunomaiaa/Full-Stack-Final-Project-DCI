@@ -10,6 +10,10 @@ export default function Home() {
     cName="hero"
     heroImg="https://images.pexels.com/photos/315499/pexels-photo-315499.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "
     title="Explore Duisburg"
+    text="Choose Your Favourite Destination."
+    buttonText="Plan Your Trip"
+    url="/"
+    btnClass="show"
 
     />
     

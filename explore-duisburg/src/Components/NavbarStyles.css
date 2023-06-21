@@ -35,7 +35,7 @@
     color: #222;
     font-size: 1.2rem;
     font-weight: 600;
-    padding: 0.7rem 1rem;
+    padding: 0.5rem 0.5rem;
     white-space: nowrap;
 }
 
@@ -54,7 +54,7 @@
     display: none;
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 980px) {
     .NavbarItems {
         z-index: 99;
     }
