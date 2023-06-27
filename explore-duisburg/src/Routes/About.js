@@ -3,6 +3,7 @@ import Navbar from '../Components/Navbar'
 import Hero from '../Components/Hero'
 import AboutImg from '../Assets/aboutimg.jpg'
 
+
 export default function About() {
   return (
     <>
@@ -14,6 +15,7 @@ export default function About() {
     
     
     btnClass="hide"
+    
 
     />
     </>
