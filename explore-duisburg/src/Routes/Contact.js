@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from '../Components/Navbar'
 import Hero from '../Components/Hero'
 import ContactImg from '../Assets/contact.jpg'
+import Footer from '../Components/Footer'
 
 export default function Contact() {
   return (
@@ -16,6 +17,7 @@ export default function Contact() {
     btnClass="hide"
 
     />
+    <Footer />
     </>
   )
 }

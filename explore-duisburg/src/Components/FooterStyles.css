@@ -1,0 +1,66 @@
+.footer{
+    padding: 4rem 6rem;
+    background: #000;
+    color: #fff;
+}
+
+.top{
+    display: flex;
+    align-items: center;
+    text-align: start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.top i {
+    color: #fff;
+    font-size: 2rem;
+    margin-left: 1rem;
+}
+.top i:hover{
+    color: #f00;
+    cursor: pointer;
+}
+
+.map{
+    height: 200px;
+    width: 100%;
+    margin-top: 2rem;
+    border-radius: 1.5rem; ;
+  }
+
+  .top a {
+    color: #fff;
+    cursor: pointer;
+  }
+  
+    .book:hover {
+        color: #f00;
+        background: #fff;
+        padding: 0.2rem 1rem;
+        border-radius: 1rem;
+        text-decoration: none;
+
+    }
+ 
+  @media screen and (max-width: 858px) {
+
+    .footer{
+        padding: 4rem 2rem;
+    }
+
+    .top{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .top i {
+        margin: 1rem 0;
+    }
+
+    .map{
+        height: 300px;
+    }
+    
+  }

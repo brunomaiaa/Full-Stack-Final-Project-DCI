@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from '../Components/Navbar'
 import Hero from '../Components/Hero'
 import AccomodationsImg from '../Assets/house.webp'
+import Footer from '../Components/Footer'
 
 export default function Accomodations() {
   return (
@@ -16,6 +17,7 @@ export default function Accomodations() {
     btnClass="hide"
 
     />
+    <Footer />
     </>
   )
 }

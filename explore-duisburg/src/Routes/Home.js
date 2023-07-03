@@ -3,6 +3,7 @@ import Navbar from '../Components/Navbar'
 import Hero from '../Components/Hero'
 import IntroDuisburg from '../Components/IntroDuisburg'
 import MustSeePlaces from '../Components/MustSeePlaces'
+import Footer from '../Components/Footer'
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
     />
     <IntroDuisburg />
     <MustSeePlaces />
+    <Footer />
     
     </>
   )
