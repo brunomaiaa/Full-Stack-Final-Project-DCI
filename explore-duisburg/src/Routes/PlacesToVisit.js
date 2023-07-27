@@ -3,6 +3,7 @@ import Navbar from '../Components/Navbar'
 import Hero from '../Components/Hero'
 import PlaceImg from '../Assets/placetovisit.jpg'
 import Footer from '../Components/Footer'
+import TripAdvisorEmbed from '../Components/TripAdvisorEmbed'
 
 export default function PlacesToVisit() {
   return (
@@ -17,6 +18,7 @@ export default function PlacesToVisit() {
     btnClass="hide"
 
     />
+    <TripAdvisorEmbed/>
     <Footer />
     </>
   )
