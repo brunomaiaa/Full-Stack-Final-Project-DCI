@@ -57,7 +57,7 @@ const AirbnbEmbed = () => {
         </div>
         <div class="airbnb-embed-details">
           <a href="https://www.airbnb.de/rooms/742329848999698090?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">
-            Eigentumswohnung · Duisburg · ★4,91 · 1 Schlafzimmer · 1 Bett · 1 Badezimmer
+            Beautiful Apartment · Duisburg · ★4,91 · 
           </a>
         </div>
         <script async="" src="https://www.airbnb.de/embeddable/airbnb_jssdk"></script>
@@ -70,7 +70,7 @@ const AirbnbEmbed = () => {
       <div class="airbnb-embed-card" data-id="798403618217374407" data-view="home">
         <div class="airbnb-embed-carousel">
           <img src="https://a0.muscache.com/im/pictures/5185161f-39b6-433c-9dd3-65c740346e33.jpg?im_w=960" alt="Property Image 4" class="airbnb-embed-image active" />
-          <img src="https://example.com/property-image5.jpg" alt="Property Image 5" class="airbnb-embed-image" />
+          <img src="https://a0.muscache.com/im/pictures/174174ad-273c-4e2b-b009-f3be0c47ddc6.jpg?im_w=1200" alt="Property Image 5" class="airbnb-embed-image" />
           <img src="https://example.com/property-image6.jpg" alt="Property Image 6" class="airbnb-embed-image" />
 
           <button class="prev-button">&lt;</button>
@@ -78,7 +78,7 @@ const AirbnbEmbed = () => {
         </div>
         <div class="airbnb-embed-details">
           <a href="https://www.airbnb.de/rooms/798403618217374407?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">
-            Apartment · Duisburg · ★4,75 · 1 Schlafzimmer · 1 Bett · 1 Badezimmer
+             Attic Apartment · Duisburg · ★4,75 · 
           </a>
         </div>
         <script async="" src="https://www.airbnb.de/embeddable/airbnb_jssdk"></script>
